@@ -10,7 +10,7 @@
 
 ## **👯 I’m looking to collaborate on:**
 > - Algorithm problems
-  - Modules and packages  
+> - Modules and packages  
 
 ## **⚡ Fun fact:**
 >I started this account to document my learning journey. Slowly it evolved to become my code backup.
