@@ -1,4 +1,4 @@
-### Hi there 👋
+### :shipit:
 
 #### The kind of projects you should expect to find🚀
 - React 
