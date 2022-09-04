@@ -7,8 +7,8 @@
 - ML
 
 ## **:shipit: I’m looking to collaborate on:**
-> - Algorithm problems
-> - Modules and packages  
+> - Algorithm problems :+1:
+> - Modules and packages  :+1:
 
 ## **⚡ Fun fact:**
 >I started this account to document my learning journey. Slowly it evolved to become my code backup.
