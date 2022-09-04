@@ -1,5 +1,3 @@
-### :shipit:
-
 #### The kind of projects you should expect to find🚀
 - React 
 - Laravel
@@ -8,7 +6,7 @@
 - .NET Core
 - ML
 
-## **👯 I’m looking to collaborate on:**
+## **:shipit: I’m looking to collaborate on:**
 > - Algorithm problems
 > - Modules and packages  
 
