@@ -11,7 +11,7 @@
 > - Modules and packages  :+1:
 
 ## **⚡ Fun fact:**
->I started this account to document my learning journey. Slowly it evolved to become my code backup :smiling_face_with_tear: .
+>I started this account to document my learning journey. Meet my code backup :lying_face: .
 
 <!--
 **iddle254/iddle254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
