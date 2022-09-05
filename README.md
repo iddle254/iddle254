@@ -10,11 +10,13 @@
 > - Algorithm problems :+1:
 > - Modules and packages  :+1:
 
+<!--
+**iddle254/iddle254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 ## **⚡ Fun fact:**
 >I started this account to document my learning journey. Meet my code backup :lying_face: .
 
-<!--
-**iddle254/iddle254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
