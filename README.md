@@ -6,8 +6,8 @@
 - .NET Core
 - ML
 
-## **:shipit: I’m looking to collaborate on:**
-> - Algorithm problems :+1:
+## **:shipit: Be blessed with:**
+> - Algorithm solutions :+1:
 > - Modules and packages  :+1:
 
 <!--
