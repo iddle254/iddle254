@@ -6,7 +6,7 @@
 - .NET Core
 - ML
 
-## **:shipit: Be blessed with:**
+## **:shipit: Contained herein:**
 > - Algorithm solutions :+1:
 > - Modules and packages  :+1:
 
